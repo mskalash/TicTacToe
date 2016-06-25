@@ -20,6 +20,10 @@
         "source": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\drawable\\two_player.png"
     },
     {
+        "merged": "C:\\My Documents\\TicTacToe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\header.jpg",
+        "source": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\drawable\\header.jpg"
+    },
+    {
         "merged": "C:\\My Documents\\TicTacToe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\one_player.png",
         "source": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\drawable\\one_player.png"
     },
@@ -50,5 +54,9 @@
     {
         "merged": "C:\\My Documents\\TicTacToe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\one_player_down.png",
         "source": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\drawable\\one_player_down.png"
+    },
+    {
+        "merged": "C:\\My Documents\\TicTacToe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bang.png",
+        "source": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\drawable\\bang.png"
     }
 ]

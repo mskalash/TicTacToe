@@ -144,7 +144,6 @@ public class TicTacToeActivity extends Activity {
     				{
     					mInfoTextView.setText(R.string.result_tie);
     					mTieCounter++;
-                        finish.setImageResource(R.drawable.header);
     					mTieCount.setText(Integer.toString(mTieCounter));
     					mGameOver = true;
     				}
@@ -160,6 +159,7 @@ public class TicTacToeActivity extends Activity {
     				{
     					mInfoTextView.setText(R.string.result_android_wins);
     					mAndroidCounter++;
+						finish.setImageResource(R.drawable.bang);
     					mAndroidCount.setText(Integer.toString(mAndroidCounter));
     					mGameOver = true;
     				}
