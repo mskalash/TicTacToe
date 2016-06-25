@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black_overlay">#66000000</color>
+    <declare-styleable name="ButtonBarContainerTheme"><attr format="reference" name="buttonBarStyle"/><attr format="reference" name="buttonBarButtonStyle"/></declare-styleable>
+    <string name="about_heading">About</string>
+    <string name="about_info">Это приложение Tic Tac Toe против компьютера, приложение 
+         будет отслеживать и отображать результат игры 
+         в нижней части экрана.
+    </string>
+    <string name="android">Android:  </string>
+    <string name="app_name">TicTacToeTutorial</string>
+    <string name="contact_heading">Contact Info</string>
+    <string name="contact_info">
+        <b>Name:</b> Grisha Masliy\n
+    </string>
+    <string name="eight">8</string>
+    <string name="exitGame_label">Выйти из Игры</string>
+    <string name="first_human">Ты первый.</string>
+    <string name="five">5</string>
+    <string name="four">4</string>
+    <string name="human">Игрок:  </string>
+    <string name="info">Инф. игры:</string>
+    <string name="newGame_label">Новая Игра</string>
+    <string name="nine">9</string>
+    <string name="one">1</string>
+    <string name="player_one">Игрок 1:  </string>
+    <string name="player_two">Игрок 2:  </string>
+    <string name="result_android_wins">Вы проиграли!</string>
+    <string name="result_human_wins">Вы выиграли!</string>
+    <string name="result_player_one_wins">Выиграл Игрок 1!</string>
+    <string name="result_player_two_wins">Выиграл Игрок 2!</string>
+    <string name="result_tie">Ничья!</string>
+    <string name="seven">7</string>
+    <string name="six">6</string>
+    <string name="three">3</string>
+    <string name="ties">Ничия:  </string>
+    <string name="turn_computer">Android\'s turn.</string>
+    <string name="turn_human">Твой ход.</string>
+    <string name="turn_player_one">Игрок1 ходит.</string>
+    <string name="turn_player_two">Игрок2 ходит.</string>
+    <string name="two">2</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="ButtonBar">
+        <item name="android:paddingLeft">2dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:paddingRight">2dp</item>
+        <item name="android:paddingBottom">0dp</item>
+        <item name="android:background">@android:drawable/bottom_bar</item>
+    </style>
+    <style name="ButtonBarButton"/>
+    <style name="FullscreenTheme" parent="android:Theme.NoTitleBar">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowBackground">@null</item>
+        <item name="buttonBarStyle">@style/ButtonBar</item>
+        <item name="buttonBarButtonStyle">@style/ButtonBarButton</item>
+    </style>
+</resources>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\My Documents\\TicTacToe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tictactoe.png",
+        "source": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\drawable-hdpi\\ic_tictactoe.png"
+    },
+    {
+        "merged": "C:\\My Documents\\TicTacToe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]
