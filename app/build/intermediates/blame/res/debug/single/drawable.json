@@ -4,6 +4,10 @@
         "source": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\drawable\\ct_patch.png"
     },
     {
+        "merged": "C:\\My Documents\\TicTacToe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\defuser_hud_csgoa.png",
+        "source": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\drawable\\defuser_hud_csgoa.png"
+    },
+    {
         "merged": "C:\\My Documents\\TicTacToe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\one_player_button.xml",
         "source": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\drawable\\one_player_button.xml"
     },

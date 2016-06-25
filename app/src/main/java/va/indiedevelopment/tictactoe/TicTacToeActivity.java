@@ -1,7 +1,6 @@
 package va.indiedevelopment.tictactoe;
  
 import android.app.Activity;
-import android.graphics.Color;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuInflater;
@@ -9,13 +8,14 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ImageButton;
-import android.widget.Switch;
+import android.widget.ImageView;
 import android.widget.TextView;
  
  
 public class TicTacToeActivity extends Activity {
 	private TicTacToeGame mGame;
     private Button newgame;
+    private ImageView finish;
 	private ImageButton mBoardButtons[];
 	private TextView mInfoTextView;
 	private TextView mHumanCount;
@@ -30,6 +30,7 @@ public class TicTacToeActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
+         finish= (ImageView) findViewById(R.id.finish);
         newgame = (Button) findViewById(R.id.new1);
         mBoardButtons = new ImageButton[mGame.getBOARD_SIZE()];
         mBoardButtons[0] = (ImageButton) findViewById(R.id.one);
@@ -143,12 +144,14 @@ public class TicTacToeActivity extends Activity {
     				{
     					mInfoTextView.setText(R.string.result_tie);
     					mTieCounter++;
+                        finish.setImageResource(R.drawable.header);
     					mTieCount.setText(Integer.toString(mTieCounter));
     					mGameOver = true;
     				}
     				else if (winner == 2)
     				{
     					mInfoTextView.setText(R.string.result_human_wins);
+                        finish.setImageResource(R.drawable.defuser_hud_csgoa);
     					mHumanCounter++;
     					mHumanCount.setText(Integer.toString(mHumanCounter));
     					mGameOver = true;

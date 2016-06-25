@@ -2,7 +2,8 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    android:orientation="vertical" >
+    android:orientation="vertical"
+    android:weightSum="1">
  
     <TableLayout
         android:id="@+id/playArea"
@@ -20,21 +21,21 @@
                 android:id="@+id/one"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
-
+                android:background="@null"
                 android:textSize="70dp" />
  
             <ImageButton
                 android:id="@+id/two"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
-
+                android:background="@null"
                 android:textSize="70dp" />
  
             <ImageButton
                 android:id="@+id/three"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
-
+                android:background="@null"
                 android:textSize="70dp" />
         </TableRow>
  
@@ -48,21 +49,21 @@
                 android:id="@+id/four"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
-
+                android:background="@null"
                 android:textSize="70dp" />
  
             <ImageButton
                 android:id="@+id/five"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
-
+                android:background="@null"
                 android:textSize="70dp" />
  
             <ImageButton
                 android:id="@+id/six"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
-
+                android:background="@null"
                 android:textSize="70dp" />
         </TableRow>
  
@@ -76,21 +77,21 @@
                 android:id="@+id/seven"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
-
+                android:background="@null"
                 android:textSize="70dp" />
  
             <ImageButton
                 android:id="@+id/eight"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
-
+                android:background="@null"
                 android:textSize="70dp" />
  
             <ImageButton
                 android:id="@+id/nine"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
-
+                android:background="@null"
                 android:textSize="70dp" />
         </TableRow>
     </TableLayout>
@@ -160,6 +161,12 @@
         android:text="Сброс"
         android:id="@+id/new1"
         android:layout_gravity="center_horizontal" />
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/finish"
+        />
 
 
 </LinearLayout>
