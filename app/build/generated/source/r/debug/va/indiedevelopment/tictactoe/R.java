@@ -22,35 +22,36 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int black_overlay=0x7f050000;
     }
     public static final class drawable {
-        public static final int exit_game=0x7f020000;
-        public static final int exit_game_button=0x7f020001;
-        public static final int exit_game_down=0x7f020002;
-        public static final int ic_launcher=0x7f020003;
-        public static final int ic_tictactoe=0x7f020004;
-        public static final int main_menu=0x7f020005;
-        public static final int one_player=0x7f020006;
-        public static final int one_player_button=0x7f020007;
-        public static final int one_player_down=0x7f020008;
-        public static final int two_player=0x7f020009;
-        public static final int two_player_button=0x7f02000a;
-        public static final int two_player_down=0x7f02000b;
+        public static final int bombsite_a=0x7f020000;
+        public static final int ct_patch=0x7f020001;
+        public static final int exit_game=0x7f020002;
+        public static final int exit_game_button=0x7f020003;
+        public static final int exit_game_down=0x7f020004;
+        public static final int ic_launcher=0x7f020005;
+        public static final int ic_tictactoe=0x7f020006;
+        public static final int one_player=0x7f020007;
+        public static final int one_player_button=0x7f020008;
+        public static final int one_player_down=0x7f020009;
+        public static final int t_patch=0x7f02000a;
+        public static final int two_player=0x7f02000b;
+        public static final int two_player_button=0x7f02000c;
+        public static final int two_player_down=0x7f02000d;
     }
     public static final class id {
         public static final int android=0x7f080014;
         public static final int androidCount=0x7f080015;
-        public static final int button1=0x7f080018;
-        public static final int button2=0x7f080019;
-        public static final int button3=0x7f08001a;
+        public static final int button1=0x7f080017;
+        public static final int button2=0x7f080018;
+        public static final int button3=0x7f080019;
         public static final int eight=0x7f08000b;
-        public static final int exitGame=0x7f08001c;
+        public static final int exitGame=0x7f08001b;
         public static final int five=0x7f080007;
         public static final int four=0x7f080006;
         public static final int human=0x7f080010;
         public static final int humanCount=0x7f080011;
-        public static final int imageView1=0x7f080017;
         public static final int information=0x7f08000d;
         public static final int new1=0x7f080016;
-        public static final int newGame=0x7f08001b;
+        public static final int newGame=0x7f08001a;
         public static final int nine=0x7f08000c;
         public static final int one=0x7f080002;
         public static final int playArea=0x7f080000;

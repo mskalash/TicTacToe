@@ -4,12 +4,12 @@ import java.util.Random;
  
 public class TicTacToeGame {
  
-	private char mBoard[];
+	private int mBoard[];
 	private final static int BOARD_SIZE = 9;
  
-	public static final char HUMAN_PLAYER = 'X';
-	public static final char ANDROID_PLAYER = '0';
-	public static final char EMPTY_SPACE = ' ';
+	public static final int HUMAN_PLAYER = R.drawable.ct_patch;
+	public static final int ANDROID_PLAYER = R.drawable.t_patch;
+	public static final int EMPTY_SPACE = R.drawable.bombsite_a;
  
 	private Random mRand;
  
@@ -19,7 +19,7 @@ public class TicTacToeGame {
  
 	public TicTacToeGame(){
  
-		mBoard = new char[BOARD_SIZE];
+		mBoard = new int[BOARD_SIZE];
  
 		for (int i = 0; i < BOARD_SIZE; i++)
 			mBoard[i] = EMPTY_SPACE;
@@ -35,7 +35,7 @@ public class TicTacToeGame {
 		}
 	}
  
-	public void setMove(char player, int location)
+	public void setMove(int player, int location)
 	{
 		mBoard[location] = player;
 	}
@@ -48,7 +48,7 @@ public class TicTacToeGame {
 		{
 			if (mBoard[i] != HUMAN_PLAYER && mBoard[i] != ANDROID_PLAYER)
 			{
-				char curr = mBoard[i];
+				int curr = mBoard[i];
 				mBoard[i] = ANDROID_PLAYER;
 				if (checkForWinner() == 3)
 				{
@@ -64,7 +64,7 @@ public class TicTacToeGame {
 		{
 			if (mBoard[i] != HUMAN_PLAYER && mBoard[i] != ANDROID_PLAYER)
 			{
-				char curr = mBoard[i];
+				int curr = mBoard[i];
 				mBoard[i] = HUMAN_PLAYER;
 				if (checkForWinner() == 2)
 				{
@@ -84,7 +84,7 @@ public class TicTacToeGame {
 			setMove(ANDROID_PLAYER, move);
 		return move;
 	}
- 
+ //logic who is winner this game
 	public int checkForWinner()
 	{
 		for (int i = 0; i <= 6; i += 3)

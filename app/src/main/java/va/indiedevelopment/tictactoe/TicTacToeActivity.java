@@ -8,13 +8,15 @@ import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
+import android.widget.ImageButton;
 import android.widget.Switch;
 import android.widget.TextView;
  
  
 public class TicTacToeActivity extends Activity {
 	private TicTacToeGame mGame;
-	private Button mBoardButtons[];
+    private Button newgame;
+	private ImageButton mBoardButtons[];
 	private TextView mInfoTextView;
 	private TextView mHumanCount;
 	private TextView mTieCount;
@@ -28,17 +30,17 @@ public class TicTacToeActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
-Button newgame = (Button) findViewById(R.id.new1);
-        mBoardButtons = new Button[mGame.getBOARD_SIZE()];
-        mBoardButtons[0] = (Button) findViewById(R.id.one);
-        mBoardButtons[1] = (Button) findViewById(R.id.two);
-        mBoardButtons[2] = (Button) findViewById(R.id.three);
-        mBoardButtons[3] = (Button) findViewById(R.id.four);
-        mBoardButtons[4] = (Button) findViewById(R.id.five);
-        mBoardButtons[5] = (Button) findViewById(R.id.six);
-        mBoardButtons[6] = (Button) findViewById(R.id.seven);
-        mBoardButtons[7] = (Button) findViewById(R.id.eight);
-        mBoardButtons[8] = (Button) findViewById(R.id.nine);
+        newgame = (Button) findViewById(R.id.new1);
+        mBoardButtons = new ImageButton[mGame.getBOARD_SIZE()];
+        mBoardButtons[0] = (ImageButton) findViewById(R.id.one);
+        mBoardButtons[1] = (ImageButton) findViewById(R.id.two);
+        mBoardButtons[2] = (ImageButton) findViewById(R.id.three);
+        mBoardButtons[3] = (ImageButton) findViewById(R.id.four);
+        mBoardButtons[4] = (ImageButton) findViewById(R.id.five);
+        mBoardButtons[5] = (ImageButton) findViewById(R.id.six);
+        mBoardButtons[6] = (ImageButton) findViewById(R.id.seven);
+        mBoardButtons[7] = (ImageButton) findViewById(R.id.eight);
+        mBoardButtons[8] = (ImageButton) findViewById(R.id.nine);
  
         mInfoTextView = (TextView) findViewById(R.id.information);
         mHumanCount = (TextView) findViewById(R.id.humanCount);
@@ -86,7 +88,7 @@ Button newgame = (Button) findViewById(R.id.new1);
  
     	for (int i = 0; i < mBoardButtons.length; i++)
     	{
-    		mBoardButtons[i].setText("");
+    		mBoardButtons[i].setImageResource(R.drawable.bombsite_a);
     		mBoardButtons[i].setEnabled(true);
     		mBoardButtons[i].setOnClickListener(new ButtonClickListener(i));
     	}
@@ -163,14 +165,11 @@ Button newgame = (Button) findViewById(R.id.new1);
     	}
     }
  
-    private void setMove(char player, int location)
+    private void setMove(int player, int location)
     {
     	mGame.setMove(player, location);
     	mBoardButtons[location].setEnabled(false);
-    	mBoardButtons[location].setText(String.valueOf(player));
-    	if (player == mGame.HUMAN_PLAYER)
-    		mBoardButtons[location].setTextColor(Color.GREEN);
-    	else
-    		mBoardButtons[location].setTextColor(Color.RED);
+    	mBoardButtons[location].setImageResource(player);
+
     }
 }
