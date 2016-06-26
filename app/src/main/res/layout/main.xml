@@ -22,21 +22,21 @@
                 android:layout_width="100dp"
                 android:layout_height="100dp"
                 android:background="@null"
-                android:textSize="70dp" />
+                />
  
             <ImageButton
                 android:id="@+id/two"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
                 android:background="@null"
-                android:textSize="70dp" />
+                 />
  
             <ImageButton
                 android:id="@+id/three"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
                 android:background="@null"
-                android:textSize="70dp" />
+                 />
         </TableRow>
  
         <TableRow
@@ -57,14 +57,14 @@
                 android:layout_width="100dp"
                 android:layout_height="100dp"
                 android:background="@null"
-                android:textSize="70dp" />
+                />
  
             <ImageButton
                 android:id="@+id/six"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
                 android:background="@null"
-                android:textSize="70dp" />
+                 />
         </TableRow>
  
         <TableRow
@@ -85,14 +85,14 @@
                 android:layout_width="100dp"
                 android:layout_height="100dp"
                 android:background="@null"
-                android:textSize="70dp" />
+                />
  
             <ImageButton
                 android:id="@+id/nine"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
                 android:background="@null"
-                android:textSize="70dp" />
+               />
         </TableRow>
     </TableLayout>
  
