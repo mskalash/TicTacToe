@@ -95,7 +95,7 @@ public class TicTacToeActivity extends Activity {
     private void startNewGame()
     {
     	mGame.clearBoard();
- 
+
     	for (int i = 0; i < mBoardButtons.length; i++)
     	{
     		mBoardButtons[i].setImageResource(R.drawable.bombsite_a);
