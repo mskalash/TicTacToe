@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    //string whot need in game mach times
     <string name="newgame">New Round</string>
     <string name="app_name">TicTacToeTutorial</string>
     <string name="first_human">Your move.</string>
