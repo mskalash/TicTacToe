@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="newgame">New Round</string>
     <string name="app_name">TicTacToeTutorial</string>
-    <string name="first_human">You defuse.</string>
+    <string name="first_human">Your move.</string>
     <string name="turn_player_one">Игрок1 ходит.</string>
     <string name="turn_player_two">Игрок2 ходит.</string>
     <string name="result_tie">Dead heat!</string>
-    <string name="result_human_wins">Вы выиграли!</string>
-    <string name="result_android_wins">Вы проиграли!</string>
+    <string name="result_human_wins">Counter Terrorist win !</string>
+    <string name="result_android_wins">Terrorist win!</string>
     <string name="result_player_one_wins">Выиграл Игрок 1!</string>
     <string name="result_player_two_wins">Выиграл Игрок 2!</string>
-    <string name="info">Инф. игры:</string>
+    <string name="info">Info:</string>
     <string name="human">CT:  </string>
     <string name="player_one">Игрок 1:  </string>
     <string name="ties">Dead heat:  </string>

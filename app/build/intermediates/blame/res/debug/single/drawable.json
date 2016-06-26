@@ -58,5 +58,9 @@
     {
         "merged": "C:\\My Documents\\TicTacToe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bang.png",
         "source": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\drawable\\bang.png"
+    },
+    {
+        "merged": "C:\\My Documents\\TicTacToe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hqdefault.jpg",
+        "source": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\drawable\\hqdefault.jpg"
     }
 ]

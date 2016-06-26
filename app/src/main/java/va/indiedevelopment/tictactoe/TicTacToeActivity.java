@@ -14,7 +14,7 @@ import android.widget.TextView;
  
 public class TicTacToeActivity extends Activity {
 	private TicTacToeGame mGame;
-    private Button newgame;
+    private ImageButton newgame;
     private ImageView finish;
 	private ImageButton mBoardButtons[];
 	private TextView mInfoTextView;
@@ -31,7 +31,7 @@ public class TicTacToeActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
          finish= (ImageView) findViewById(R.id.finish);
-        newgame = (Button) findViewById(R.id.new1);
+        newgame = (ImageButton) findViewById(R.id.new1);
         mBoardButtons = new ImageButton[mGame.getBOARD_SIZE()];
         mBoardButtons[0] = (ImageButton) findViewById(R.id.one);
         mBoardButtons[1] = (ImageButton) findViewById(R.id.two);
@@ -53,9 +53,18 @@ public class TicTacToeActivity extends Activity {
         mAndroidCount.setText(Integer.toString(mAndroidCounter));
  
         mGame = new TicTacToeGame();
- 
+
         startNewGame();
- 
+
+		View.OnClickListener oclBtnOk = new View.OnClickListener() {
+			@Override
+			public void onClick(View v) {
+				startNewGame();
+			}
+		};
+
+		// присвоим обработчик кнопке OK (btnOk)
+		newgame.setOnClickListener(oclBtnOk);
     }
  
     @Override
@@ -101,7 +110,7 @@ public class TicTacToeActivity extends Activity {
     	}
     	else
     	{
-    		mInfoTextView.setText(R.string.turn_computer);
+
     		int move = mGame.getComputerMove();
     		setMove(mGame.ANDROID_PLAYER, move);
     		mHumanFirst = true;
@@ -113,7 +122,7 @@ public class TicTacToeActivity extends Activity {
     private class ButtonClickListener implements View.OnClickListener
     {
     	int location;
- 
+
     	public ButtonClickListener(int location)
     	{
     		this.location = location;
@@ -132,14 +141,14 @@ public class TicTacToeActivity extends Activity {
  
     				if (winner == 0)
     				{
-    					mInfoTextView.setText(R.string.turn_computer);
+
     					int move = mGame.getComputerMove();
     					setMove(mGame.ANDROID_PLAYER, move);
     					winner = mGame.checkForWinner();    					
     				}
  
     				if (winner == 0)
-    					mInfoTextView.setText(R.string.turn_human);
+    					mInfoTextView.setText(R.string.first_human);
     				else if (winner == 1)
     				{
     					mInfoTextView.setText(R.string.result_tie);

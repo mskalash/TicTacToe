@@ -30,15 +30,16 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int exit_game_button=0x7f020005;
         public static final int exit_game_down=0x7f020006;
         public static final int header=0x7f020007;
-        public static final int ic_launcher=0x7f020008;
-        public static final int ic_tictactoe=0x7f020009;
-        public static final int one_player=0x7f02000a;
-        public static final int one_player_button=0x7f02000b;
-        public static final int one_player_down=0x7f02000c;
-        public static final int t_patch=0x7f02000d;
-        public static final int two_player=0x7f02000e;
-        public static final int two_player_button=0x7f02000f;
-        public static final int two_player_down=0x7f020010;
+        public static final int hqdefault=0x7f020008;
+        public static final int ic_launcher=0x7f020009;
+        public static final int ic_tictactoe=0x7f02000a;
+        public static final int one_player=0x7f02000b;
+        public static final int one_player_button=0x7f02000c;
+        public static final int one_player_down=0x7f02000d;
+        public static final int t_patch=0x7f02000e;
+        public static final int two_player=0x7f02000f;
+        public static final int two_player_button=0x7f020010;
+        public static final int two_player_down=0x7f020011;
     }
     public static final class id {
         public static final int android=0x7f080014;
@@ -85,32 +86,22 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int app_name=0x7f060003;
         public static final int contact_heading=0x7f060004;
         public static final int contact_info=0x7f060005;
-        public static final int eight=0x7f060006;
-        public static final int exitGame_label=0x7f060007;
-        public static final int first_human=0x7f060008;
-        public static final int five=0x7f060009;
-        public static final int four=0x7f06000a;
-        public static final int human=0x7f06000b;
-        public static final int info=0x7f06000c;
-        public static final int newGame_label=0x7f06000d;
-        public static final int nine=0x7f06000e;
-        public static final int one=0x7f06000f;
-        public static final int player_one=0x7f060010;
-        public static final int player_two=0x7f060011;
-        public static final int result_android_wins=0x7f060012;
-        public static final int result_human_wins=0x7f060013;
-        public static final int result_player_one_wins=0x7f060014;
-        public static final int result_player_two_wins=0x7f060015;
-        public static final int result_tie=0x7f060016;
-        public static final int seven=0x7f060017;
-        public static final int six=0x7f060018;
-        public static final int three=0x7f060019;
-        public static final int ties=0x7f06001a;
-        public static final int turn_computer=0x7f06001b;
-        public static final int turn_human=0x7f06001c;
-        public static final int turn_player_one=0x7f06001d;
-        public static final int turn_player_two=0x7f06001e;
-        public static final int two=0x7f06001f;
+        public static final int exitGame_label=0x7f060006;
+        public static final int first_human=0x7f060007;
+        public static final int human=0x7f060008;
+        public static final int info=0x7f060009;
+        public static final int newGame_label=0x7f06000a;
+        public static final int newgame=0x7f06000b;
+        public static final int player_one=0x7f06000c;
+        public static final int player_two=0x7f06000d;
+        public static final int result_android_wins=0x7f06000e;
+        public static final int result_human_wins=0x7f06000f;
+        public static final int result_player_one_wins=0x7f060010;
+        public static final int result_player_two_wins=0x7f060011;
+        public static final int result_tie=0x7f060012;
+        public static final int ties=0x7f060013;
+        public static final int turn_player_one=0x7f060014;
+        public static final int turn_player_two=0x7f060015;
     }
     public static final class style {
         /**  API 11 theme customizations can go here. 

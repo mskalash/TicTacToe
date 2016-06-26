@@ -155,11 +155,12 @@
         </TableRow>
     </TableLayout>
 
-    <Button
+   <ImageButton
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Сброс"
         android:id="@+id/new1"
+       android:src="@drawable/hqdefault"
+       android:background="@null"
         android:layout_gravity="center_horizontal" />
 
     <ImageView

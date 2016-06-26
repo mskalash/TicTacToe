@@ -7,38 +7,28 @@
          будет отслеживать и отображать результат игры 
          в нижней части экрана.
     </string>
-    <string name="android">Android:  </string>
+    <string name="android">T:  </string>
     <string name="app_name">TicTacToeTutorial</string>
     <string name="contact_heading">Contact Info</string>
     <string name="contact_info">
-        <b>Name:</b> Grisha Masliy\n
+        <b>Name:</b> Maxim Khlebnikov\n
     </string>
-    <string name="eight">8</string>
     <string name="exitGame_label">Выйти из Игры</string>
-    <string name="first_human">Ты первый.</string>
-    <string name="five">5</string>
-    <string name="four">4</string>
-    <string name="human">Игрок:  </string>
-    <string name="info">Инф. игры:</string>
+    <string name="first_human">Your move.</string>
+    <string name="human">CT:  </string>
+    <string name="info">Info:</string>
     <string name="newGame_label">Новая Игра</string>
-    <string name="nine">9</string>
-    <string name="one">1</string>
+    <string name="newgame">New Round</string>
     <string name="player_one">Игрок 1:  </string>
     <string name="player_two">Игрок 2:  </string>
-    <string name="result_android_wins">Вы проиграли!</string>
-    <string name="result_human_wins">Вы выиграли!</string>
+    <string name="result_android_wins">Terrorist win!</string>
+    <string name="result_human_wins">Counter Terrorist win !</string>
     <string name="result_player_one_wins">Выиграл Игрок 1!</string>
     <string name="result_player_two_wins">Выиграл Игрок 2!</string>
-    <string name="result_tie">Ничья!</string>
-    <string name="seven">7</string>
-    <string name="six">6</string>
-    <string name="three">3</string>
-    <string name="ties">Ничия:  </string>
-    <string name="turn_computer">Android\'s turn.</string>
-    <string name="turn_human">Твой ход.</string>
+    <string name="result_tie">Dead heat!</string>
+    <string name="ties">Dead heat:  </string>
     <string name="turn_player_one">Игрок1 ходит.</string>
     <string name="turn_player_two">Игрок2 ходит.</string>
-    <string name="two">2</string>
     <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--
             Theme customizations available in newer API levels can go in
