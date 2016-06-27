@@ -28,6 +28,10 @@
         "source": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\drawable\\one_player.png"
     },
     {
+        "merged": "C:\\My Documents\\TicTacToe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\game_icon_.png",
+        "source": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\drawable\\game_icon_.png"
+    },
+    {
         "merged": "C:\\My Documents\\TicTacToe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\t_patch.png",
         "source": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\drawable\\t_patch.png"
     },

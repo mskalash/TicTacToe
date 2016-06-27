@@ -11,14 +11,7 @@
                     "endOffset": 100
                 },
                 "from": {
-                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 19,
-                        "endColumn": 49,
-                        "endOffset": 64
-                    }
+                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\colors.xml"
                 }
             },
             {
@@ -30,14 +23,7 @@
                     "endOffset": 325
                 },
                 "from": {
-                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 1052,
-                        "endColumn": 47,
-                        "endOffset": 1095
-                    }
+                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -50,15 +36,7 @@
                     "endOffset": 515
                 },
                 "from": {
-                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 1100,
-                        "endLine": 26,
-                        "endColumn": 13,
-                        "endOffset": 1285
-                    }
+                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -70,14 +48,7 @@
                     "endOffset": 556
                 },
                 "from": {
-                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 817,
-                        "endColumn": 40,
-                        "endOffset": 853
-                    }
+                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -85,17 +56,17 @@
                     "startLine": 10,
                     "startColumn": 4,
                     "startOffset": 561,
-                    "endColumn": 54,
-                    "endOffset": 611
+                    "endColumn": 58,
+                    "endOffset": 615
                 },
                 "from": {
                     "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 3,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 101,
-                        "endColumn": 54,
-                        "endOffset": 151
+                        "startOffset": 143,
+                        "endColumn": 58,
+                        "endOffset": 197
                     }
                 }
             },
@@ -103,447 +74,281 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 616,
+                    "startOffset": 620,
                     "endColumn": 56,
-                    "endOffset": 668
+                    "endOffset": 672
                 },
                 "from": {
-                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 908,
-                        "endColumn": 56,
-                        "endOffset": 960
-                    }
+                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 673,
+                    "startOffset": 677,
                     "endLine": 14,
                     "endColumn": 13,
-                    "endOffset": 755
+                    "endOffset": 759
                 },
                 "from": {
-                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 965,
-                        "endLine": 21,
-                        "endColumn": 13,
-                        "endOffset": 1047
-                    }
+                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 760,
+                    "startOffset": 764,
                     "endColumn": 56,
-                    "endOffset": 812
+                    "endOffset": 816
                 },
                 "from": {
-                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 28,
-                        "startColumn": 4,
-                        "startOffset": 1343,
-                        "endColumn": 56,
-                        "endOffset": 1395
-                    }
+                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 817,
+                    "startOffset": 821,
                     "endColumn": 50,
-                    "endOffset": 863
+                    "endOffset": 867
                 },
                 "from": {
-                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 156,
-                        "endColumn": 50,
-                        "endOffset": 202
-                    }
+                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 868,
+                    "startOffset": 872,
                     "endColumn": 39,
-                    "endOffset": 903
+                    "endOffset": 907
                 },
                 "from": {
-                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 681,
-                        "endColumn": 39,
-                        "endOffset": 716
-                    }
+                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 908,
+                    "startOffset": 912,
                     "endColumn": 38,
-                    "endOffset": 942
+                    "endOffset": 946
                 },
                 "from": {
-                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 642,
-                        "endColumn": 38,
-                        "endOffset": 676
-                    }
+                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 947,
+                    "startOffset": 951,
                     "endColumn": 52,
-                    "endOffset": 995
+                    "endOffset": 999
                 },
                 "from": {
-                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 27,
-                        "startColumn": 4,
-                        "startOffset": 1290,
-                        "endColumn": 52,
-                        "endOffset": 1338
-                    }
+                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 1000,
+                    "startOffset": 1004,
                     "endColumn": 45,
-                    "endOffset": 1041
+                    "endOffset": 1045
                 },
                 "from": {
-                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 45,
-                        "endOffset": 96
-                    }
+                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 1046,
+                    "startOffset": 1050,
                     "endColumn": 49,
-                    "endOffset": 1091
+                    "endOffset": 1095
                 },
                 "from": {
-                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 721,
-                        "endColumn": 49,
-                        "endOffset": 766
-                    }
+                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 1096,
+                    "startOffset": 1100,
                     "endColumn": 49,
-                    "endOffset": 1141
+                    "endOffset": 1145
                 },
                 "from": {
-                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 858,
-                        "endColumn": 49,
-                        "endOffset": 903
-                    }
+                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 1146,
+                    "startOffset": 1150,
                     "endColumn": 62,
-                    "endOffset": 1204
+                    "endOffset": 1208
                 },
                 "from": {
-                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 443,
-                        "endColumn": 62,
-                        "endOffset": 501
-                    }
+                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 1209,
+                    "startOffset": 1213,
                     "endColumn": 69,
-                    "endOffset": 1274
+                    "endOffset": 1278
                 },
                 "from": {
-                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 373,
-                        "endColumn": 69,
-                        "endOffset": 438
-                    }
+                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 1279,
+                    "startOffset": 1283,
                     "endColumn": 67,
-                    "endOffset": 1342
+                    "endOffset": 1346
                 },
                 "from": {
-                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 506,
-                        "endColumn": 67,
-                        "endOffset": 569
-                    }
+                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 1347,
+                    "startOffset": 1351,
                     "endColumn": 67,
-                    "endOffset": 1410
+                    "endOffset": 1414
                 },
                 "from": {
-                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 574,
-                        "endColumn": 67,
-                        "endOffset": 637
-                    }
+                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 1415,
+                    "startOffset": 1419,
                     "endColumn": 49,
-                    "endOffset": 1460
+                    "endOffset": 1464
                 },
                 "from": {
-                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 323,
-                        "endColumn": 49,
-                        "endOffset": 368
-                    }
+                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 1465,
+                    "startOffset": 1469,
                     "endColumn": 45,
-                    "endOffset": 1506
+                    "endOffset": 1510
                 },
                 "from": {
-                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 771,
-                        "endColumn": 45,
-                        "endOffset": 812
-                    }
+                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 1511,
+                    "startOffset": 1515,
                     "endColumn": 57,
-                    "endOffset": 1564
+                    "endOffset": 1568
                 },
                 "from": {
-                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 207,
-                        "endColumn": 57,
-                        "endOffset": 260
-                    }
+                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 1569,
+                    "startOffset": 1573,
                     "endColumn": 57,
-                    "endOffset": 1622
+                    "endOffset": 1626
                 },
                 "from": {
-                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 265,
-                        "endColumn": 57,
-                        "endOffset": 318
-                    }
+                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 1627,
+                    "startOffset": 1631,
                     "endLine": 38,
                     "endColumn": 12,
-                    "endOffset": 1914
+                    "endOffset": 1918
                 },
                 "from": {
-                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 231,
-                        "endLine": 15,
-                        "endColumn": 12,
-                        "endOffset": 522
-                    }
+                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\styles.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 1919,
+                    "startOffset": 1923,
                     "endLine": 41,
                     "endColumn": 12,
-                    "endOffset": 2074
+                    "endOffset": 2078
                 },
                 "from": {
-                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 563,
-                        "endLine": 20,
-                        "endColumn": 12,
-                        "endOffset": 720
-                    }
+                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\styles.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 2079,
+                    "startOffset": 2083,
                     "endLine": 48,
                     "endColumn": 12,
-                    "endOffset": 2402
+                    "endOffset": 2406
                 },
                 "from": {
-                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 29,
-                        "startColumn": 4,
-                        "startOffset": 1072,
-                        "endLine": 35,
-                        "endColumn": 12,
-                        "endOffset": 1401
-                    }
+                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\styles.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 49,
                     "startColumn": 4,
-                    "startOffset": 2407,
+                    "startOffset": 2411,
                     "endColumn": 35,
-                    "endOffset": 2438
+                    "endOffset": 2442
                 },
                 "from": {
-                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 37,
-                        "startColumn": 4,
-                        "startOffset": 1409,
-                        "endColumn": 36,
-                        "endOffset": 1441
-                    }
+                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\styles.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 50,
                     "startColumn": 4,
-                    "startOffset": 2443,
+                    "startOffset": 2447,
                     "endLine": 55,
                     "endColumn": 12,
-                    "endOffset": 2774
+                    "endOffset": 2778
                 },
                 "from": {
-                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 728,
-                        "endLine": 27,
-                        "endColumn": 12,
-                        "endOffset": 1064
-                    }
+                    "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\styles.xml"
                 }
             }
         ]

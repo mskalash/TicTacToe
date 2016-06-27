@@ -2,7 +2,7 @@
 <resources>
     //string whot need in game mach times
     <string name="newgame">New Round</string>
-    <string name="app_name">TicTacToeTutorial</string>
+    <string name="app_name">TicTacToy style CS:GO</string>
     <string name="first_human">Your move.</string>
     <string name="turn_player_one">Игрок1 ходит.</string>
     <string name="turn_player_two">Игрок2 ходит.</string>

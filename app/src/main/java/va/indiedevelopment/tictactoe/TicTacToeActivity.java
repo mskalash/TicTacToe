@@ -56,15 +56,17 @@ public class TicTacToeActivity extends Activity {
 
         startNewGame();
 
-		View.OnClickListener oclBtnOk = new View.OnClickListener() {
+		View.OnClickListener btnnew = new View.OnClickListener() {
 			@Override
 			public void onClick(View v) {
+				finish.setImageResource(0);
+				mInfoTextView.setText("");
 				startNewGame();
 			}
 		};
 
 		// присвоим обработчик кнопке OK (btnOk)
-		newgame.setOnClickListener(oclBtnOk);
+		newgame.setOnClickListener(btnnew);
     }
  
     @Override

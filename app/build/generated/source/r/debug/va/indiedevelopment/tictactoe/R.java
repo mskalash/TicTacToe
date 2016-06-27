@@ -29,10 +29,10 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int exit_game=0x7f020004;
         public static final int exit_game_button=0x7f020005;
         public static final int exit_game_down=0x7f020006;
-        public static final int header=0x7f020007;
-        public static final int hqdefault=0x7f020008;
-        public static final int ic_launcher=0x7f020009;
-        public static final int ic_tictactoe=0x7f02000a;
+        public static final int game_icon_=0x7f020007;
+        public static final int header=0x7f020008;
+        public static final int hqdefault=0x7f020009;
+        public static final int ic_launcher=0x7f02000a;
         public static final int one_player=0x7f02000b;
         public static final int one_player_button=0x7f02000c;
         public static final int one_player_down=0x7f02000d;
