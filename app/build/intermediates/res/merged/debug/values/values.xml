@@ -7,7 +7,7 @@
          будет отслеживать и отображать результат игры 
          в нижней части экрана.
     </string>
-    <string name="android">T:  </string>
+    <string name="android">Terrorist:  </string>
     <string name="app_name">TicTacToy style CS:GO</string>
     <string name="contact_heading">Contact Info</string>
     <string name="contact_info">
@@ -15,7 +15,7 @@
     </string>
     <string name="exitGame_label">Выйти из Игры</string>
     <string name="first_human">Your move.</string>
-    <string name="human">CT:  </string>
+    <string name="human">Counter-Terrorist:  </string>
     <string name="info">Info:</string>
     <string name="newGame_label">Новая Игра</string>
     <string name="newgame">New Round</string>

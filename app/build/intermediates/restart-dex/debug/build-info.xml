@@ -4,7 +4,7 @@
     api-level="21"
     density="xxhdpi"
     format="7"
-    timestamp="32844234703849"
+    timestamp="32954877362453"
     token="-8212795762347857576" >
 
     <task
@@ -29,7 +29,7 @@
             location="C:\My Documents\TicTacToe\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="32844234703849" >
+    <build timestamp="32954877362453" >
         <artifact
             location="C:\My Documents\TicTacToe\app\build\intermediates\res\resources-debug.ap_"
             type="RESOURCES" />

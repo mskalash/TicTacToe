@@ -12,10 +12,10 @@
     <string name="result_player_one_wins">Выиграл Игрок 1!</string>
     <string name="result_player_two_wins">Выиграл Игрок 2!</string>
     <string name="info">Info:</string>
-    <string name="human">CT:  </string>
+    <string name="human">Counter-Terrorist:  </string>
     <string name="player_one">Игрок 1:  </string>
     <string name="ties">Dead heat:  </string>
-    <string name="android">T:  </string>
+    <string name="android">Terrorist:  </string>
     <string name="player_two">Игрок 2:  </string>
     <string name="contact_heading">Contact Info</string>
     <string name="contact_info">
