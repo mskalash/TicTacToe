@@ -4,31 +4,26 @@
     api-level="21"
     density="xxhdpi"
     format="7"
-    timestamp="291522798589386"
+    timestamp="13523832313589"
     token="-8212795762347857576" >
 
     <task
         name="javac"
-        duration="444" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="275" />
+        duration="0" />
     <task
         name="verifier"
-        duration="60" />
+        duration="0" />
 
     <artifact
-        location="C:\My Documents\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
-        type="DEX" />
+        location="C:\My Documents\TicTacToe\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
 
-    <build timestamp="291379055786344" >
-        <artifact
-            location="C:\My Documents\TicTacToe\app\build\outputs\apk\app-debug.apk"
-            type="MAIN" />
-    </build>
     <build timestamp="291522798589386" >
         <artifact
             location="C:\My Documents\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black_overlay">#66000000</color>
+    <color name="black_overlay">#FFFFFF</color>
     <declare-styleable name="ButtonBarContainerTheme"><attr format="reference" name="buttonBarStyle"/><attr format="reference" name="buttonBarButtonStyle"/></declare-styleable>
     <string name="about_heading">About</string>
     <string name="about_info">Это приложение Tic Tac Toe против компьютера, приложение 
@@ -50,8 +50,9 @@
     <style name="ButtonBarButton"/>
     <style name="FullscreenTheme" parent="android:Theme.NoTitleBar">
         <item name="android:windowContentOverlay">@null</item>
-        <item name="android:windowBackground">@null</item>
+        <item name="android:windowBackground">@color/black_overlay</item>
         <item name="buttonBarStyle">@style/ButtonBar</item>
         <item name="buttonBarButtonStyle">@style/ButtonBarButton</item>
+
     </style>
 </resources>

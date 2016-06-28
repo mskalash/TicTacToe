@@ -12,7 +12,8 @@
         <activity
             android:name="va.indiedevelopment.tictactoe.TicTacToeActivity"
             android:label="@string/app_name"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Black.NoTitleBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
  
