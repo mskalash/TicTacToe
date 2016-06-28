@@ -33,13 +33,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int header=0x7f020008;
         public static final int hqdefault=0x7f020009;
         public static final int ic_launcher=0x7f02000a;
-        public static final int one_player=0x7f02000b;
-        public static final int one_player_button=0x7f02000c;
-        public static final int one_player_down=0x7f02000d;
-        public static final int t_patch=0x7f02000e;
-        public static final int two_player=0x7f02000f;
-        public static final int two_player_button=0x7f020010;
-        public static final int two_player_down=0x7f020011;
+        public static final int la=0x7f02000b;
+        public static final int one_player=0x7f02000c;
+        public static final int one_player_button=0x7f02000d;
+        public static final int one_player_down=0x7f02000e;
+        public static final int t_patch=0x7f02000f;
+        public static final int two_player=0x7f020010;
+        public static final int two_player_button=0x7f020011;
+        public static final int two_player_down=0x7f020012;
     }
     public static final class id {
         public static final int android=0x7f080014;
@@ -121,6 +122,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int ButtonBarButton=0x7f040005;
         public static final int FullscreenActionBarStyle=0x7f040001;
         public static final int FullscreenTheme=0x7f040002;
+        public static final int csgo=0x7f040006;
     }
     public static final class styleable {
         /** Attributes that can be used with a ButtonBarContainerTheme.

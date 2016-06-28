@@ -336,9 +336,9 @@
                     "startLine": 50,
                     "startColumn": 4,
                     "startOffset": 2445,
-                    "endLine": 56,
+                    "endLine": 57,
                     "endColumn": 12,
-                    "endOffset": 2792
+                    "endOffset": 2829
                 },
                 "from": {
                     "file": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\values\\styles.xml",
@@ -346,9 +346,9 @@
                         "startLine": 22,
                         "startColumn": 4,
                         "startOffset": 734,
-                        "endLine": 28,
+                        "endLine": 29,
                         "endColumn": 12,
-                        "endOffset": 1087
+                        "endOffset": 1125
                     }
                 }
             }

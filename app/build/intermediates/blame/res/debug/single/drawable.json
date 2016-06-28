@@ -8,6 +8,10 @@
         "source": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\drawable\\defuser_hud_csgoa.png"
     },
     {
+        "merged": "C:\\My Documents\\TicTacToe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\la.jpg",
+        "source": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\drawable\\la.jpg"
+    },
+    {
         "merged": "C:\\My Documents\\TicTacToe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\one_player_button.xml",
         "source": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\drawable\\one_player_button.xml"
     },
@@ -44,16 +48,16 @@
         "source": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\drawable\\bombsite_a.png"
     },
     {
-        "merged": "C:\\My Documents\\TicTacToe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\two_player_down.png",
-        "source": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\drawable\\two_player_down.png"
+        "merged": "C:\\My Documents\\TicTacToe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\exit_game_button.xml",
+        "source": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\drawable\\exit_game_button.xml"
     },
     {
         "merged": "C:\\My Documents\\TicTacToe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\two_player_button.xml",
         "source": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\drawable\\two_player_button.xml"
     },
     {
-        "merged": "C:\\My Documents\\TicTacToe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\exit_game_button.xml",
-        "source": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\drawable\\exit_game_button.xml"
+        "merged": "C:\\My Documents\\TicTacToe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\two_player_down.png",
+        "source": "C:\\My Documents\\TicTacToe\\app\\src\\main\\res\\drawable\\two_player_down.png"
     },
     {
         "merged": "C:\\My Documents\\TicTacToe\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\one_player_down.png",

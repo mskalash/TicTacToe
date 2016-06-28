@@ -4,7 +4,7 @@
     api-level="21"
     density="xxhdpi"
     format="7"
-    timestamp="13523832313589"
+    timestamp="32844234703849"
     token="-8212795762347857576" >
 
     <task
@@ -21,13 +21,18 @@
         duration="0" />
 
     <artifact
-        location="C:\My Documents\TicTacToe\app\build\outputs\apk\app-debug.apk"
-        type="MAIN" />
+        location="C:\My Documents\TicTacToe\app\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
 
-    <build timestamp="291522798589386" >
+    <build timestamp="32676709497867" >
         <artifact
-            location="C:\My Documents\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
-            type="DEX" />
+            location="C:\My Documents\TicTacToe\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="32844234703849" >
+        <artifact
+            location="C:\My Documents\TicTacToe\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>

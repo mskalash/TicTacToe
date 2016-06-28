@@ -10,8 +10,8 @@ import android.widget.Button;
 import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
- 
- 
+
+
 public class TicTacToeActivity extends Activity {
 	private TicTacToeGame mGame;
     private ImageButton newgame;
@@ -93,7 +93,7 @@ public class TicTacToeActivity extends Activity {
  
     	return true;
     }
- 
+
     private void startNewGame()
     {
     	mGame.clearBoard();

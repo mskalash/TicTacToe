@@ -20,10 +20,11 @@
         <!-- All customizations that are NOT specific to a particular API-level can go here. -->
     </style>
 
-    <style name="FullscreenTheme" parent="android:Theme.NoTitleBar">
+    <style name="csgo" parent="android:Theme.NoTitleBar">
         <item name="android:windowContentOverlay">@null</item>
-        <item name="android:windowBackground">@color/black_overlay</item>
+        <item name="android:windowBackground">@drawable/la</item>
         <item name="buttonBarStyle">@style/ButtonBar</item>
+        <item name="android:textColor">#ff000000</item>
         <item name="buttonBarButtonStyle">@style/ButtonBarButton</item>
 
     </style>
